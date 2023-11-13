@@ -1,0 +1,94 @@
+#titulo{
+    background: #303030;
+    color: #FFFFFF;
+    font-family: "inter";
+    padding: 75px;
+
+}
+
+ #dedo{
+    margin-top: 100px;
+    font-size: 60px;
+
+ }
+
+ #dedo1{
+    font-size: 20px;
+ }
+#informacional{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    background: #F9F9F9;
+    padding: 40px;
+}
+
+.numero{
+    text-align: 60x;
+    margin-top: 80px;
+    margin-left: 60px;   
+}
+
+.texto{
+    margin-left: 60px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+
+#descriçao{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 30px;
+}
+
+#textodescriçao{
+    margin-top: 200px;
+    margin-left: 60px;
+}
+#para{
+    text-align: center;
+    font-size: 35px;
+}
+
+#text{
+    text-align: justify;
+    margin-left:190px;
+    font-size: 20px;
+}
+#foto{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#formulario{
+    background: #303030;
+    text-align: center
+}
+
+#titulo-formulario{
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 700;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+input{
+    width: 308px;
+    height: 42px;
+    font-size: 15px;
+    background-color: #FFFFFF;
+    font-family: "raleway";
+    border-radius: 10px;
+    border: 0px;
+    margin: 5px;
+    padding-left: 10px;
+}
+
+button{
+    background: #C07212;
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+}
